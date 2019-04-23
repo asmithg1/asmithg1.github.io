@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>George R.R. Martin</h1>
+<head>
+  <title>George R. R. Martin</title>
+  </body>
+<h1>The Ultimate Fanpage</h1>
 <p>I'm hosted with GitHub Pages.</p>
-</body>
 </html>
