@@ -1,4 +1,5 @@
 <div class="container">
+    
     {{ $numColumns := 3 }}
     {{ range $idx, $proj:= .Site.Data.project_order.content }}
         {{ if modBool $idx $numColumns }} 
@@ -21,16 +22,6 @@
                 </div>
             </div>
         </div>
-
-            {{/*  <h2>{{ .Title }}</h2>
-            <p>{{ .Params.shortDescription }}</p>
-            {{ $img:= .Resources.GetMatch .Params.projectImage }}  */}}
-            {{/*  .Params.projectImage is just the name of the file, but it isn't the file itself and also 
-            doesn't tell us exactly where the file is. Instead of hardcoding the path, we use GetMatch to find the path  */}}
-            {{/*  GetMatch returns the very first thing it finds when searching so don't have more than one file with the same name  */}}
-            {{/*    */}}
-            {{/*  <img src="{{ $img.RelPermalink }}" />  */}}
-
             
         {{ end }}
         {{ $nextIdx := add $idx 1 }}
