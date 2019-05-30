@@ -2,14 +2,14 @@
     #this is the "front matter" of the template of a project. It's the variables associated with the file
     #this portion is written in TOML (Tom's Obvious Minimal Language)
     
-    title = "{{ replace .Name "-" " " | title }}"
+    title = "Devotion"
     #replace takes the filename and replaces all hyphens with spaces so that when it appears on your page, it's using spaces. The filename is used in the URL and URLs can't have spaces so use hyphen in the filename.
     #title converts to title-case (using capital letters for principal words only)
     
     date = {{ .Date }} #the date the file was created
 
     
-    shortDescription = "Here's a 5 word description"
+    shortDescription = "My first LP"
     projectVideo = ""
     #Project video is just the unique part of the URL  
     # For example, if the link is https://vimeo.com/285189099 then the unique part is  285189099
