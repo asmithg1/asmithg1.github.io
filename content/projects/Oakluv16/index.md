@@ -19,20 +19,16 @@
     #This image should be saved in the project folder with the name of your project 
     projectImageAltText = ""
     #Alt text is the text that gets read by screenreaders for accessibility (typically for the visually impaired) 
+
+     [[collaborator]]
+        role="Videographer"
+        name="Alec Smith"
+
+    [[collaborator]]
+        role="Editor"
+        name="Alec Smith"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**This is my first collaboration with Oakluv.**
 
-a new line in markdown will not be displayed in the browser.  
-  
-  
-the lines above this line showed up because they started with 2 spaces.
-  
-*here's some "emphasized" text, which defaults to italics but you can make it anythign you want in css*
-**here's some "strong" text, which defaults to bold but you can make it anything you want in css**
-
-Below is a list
-* asterisks make bullets
-- hyphens make bullets
-+ plusses make bullets
-* you can choose!
+As a foundation that surprises the less fortunate with gifts during the holiday season, I set out to develop a cheerful and spirited video that captures their joyful and compassionate qualities.
