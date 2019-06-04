@@ -16,10 +16,10 @@
 
         <div class="container">
             <h2>Shorts</h2>
-            {{ .Scratch.Set "elements" .Site.Data.project_order.shorts }}
+            {{ .Scratch.Set "elements" .Site.Data.project_order.albums }}
             {{ partial "card-layout.html" . }}
             <h2>Promotion</h2>
-            {{ .Scratch.Set "elements" .Site.Data.project_order.promotion }}
+            {{ .Scratch.Set "elements" .Site.Data.project_order.singles }}
             {{ partial "card-layout.html" . }}
         </div>
         {{ partial "scripts.html" }}
