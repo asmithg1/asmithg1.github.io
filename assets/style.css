@@ -30,3 +30,7 @@ body {
 	padding-left: 2px; 
 }
 
+.card {
+    width: 250px;
+    height: 200px;
+}
