@@ -1,6 +1,6 @@
 <header>
         <div class="row"> 
-        <h1 class="col-sm-12 text-center"> Gallery </h1>
+        <h1 class="col-sm-12 text-center">  </h1>
         </div>
      </header>
 <div class="container">
@@ -18,15 +18,15 @@
        
         <div class="col-4">
             <div class="card h-200 border-0">
-                <img src="{{ $imgThumb.RelPermalink }}" class="card-img-overlay" alt="...">
-                <div class="overlay"></div>
+                <a href="{{ .RelPermalink }}" class="stretched-link">
+                    <img src="{{ $imgThumb.RelPermalink }}" class="card-img-bot" alt="...">
+                </a>
+                {{/*  <div class="overlay"></div>
                 <div class="card-body">
 
-                    <a href="{{ .RelPermalink }}" class="stretched-link">
                         <h5 class="card-title">{{ .Title }}</h5>
                         <p class="card-text">{{ .Params.shortDescription }}</p>
-                    </a>
-                </div>
+                </div>  */}}
             </div>
         </div>
         
