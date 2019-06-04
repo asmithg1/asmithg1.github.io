@@ -2,20 +2,17 @@ content = [
     
     "/projects/Devotion",
     "/projects/Oakluv16", 
-    "/projects/FASTLAX", 
+    "/projects/FASTLAX",
+    "/projects/Oakluv17",
 
 ]
 
 Shorts=[
-    "/projects/electric-lady",
-    "/projects/archandroid",
+    "/projects/Devotion",
+        "/projects/FASTLAX",
+
 ]
 
 Promotion=[
-    "/projects/i-like-that",
-    "/projects/pynk",
-    "/projects/yoga",
-    "/projects/tightrope",
     "/projects/Oakluv16",
-
 ]
