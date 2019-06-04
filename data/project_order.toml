@@ -1,19 +1,17 @@
 content = [
-    
     "/projects/Devotion",
     "/projects/Oakluv16", 
     "/projects/FASTLAX",
     "/projects/Oakluv17",
-
 ]
 
-Shorts=[
+shorts=[
     "/projects/Devotion",
     "/projects/FASTLAX",
 
 ]
 
-Promotion=[
+promotion=[
     "/projects/Oakluv16",
     "/projects/Oakluv17",
 ]

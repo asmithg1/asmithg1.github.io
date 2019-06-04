@@ -5,8 +5,9 @@
      </header>
 <div class="container">
     
-    {{ $numColumns := 3 }}
- {{ range $idx, $proj:= .Site.Data.project_order.content }} 
+    {{ $numColumns := 2 }}
+{{ $projects := .Scratch.Get "elements" }}
+ {{ range $idx, $proj:= $projects }} 
         {{ if modBool $idx $numColumns }} 
         {{/*  if $idx modulo $numColumns = 0  */}}
             <div class="row gallery-row">
@@ -16,10 +17,10 @@
         {{ $imgThumb := $img.Fill "260x200" }}
         {{/*  Resizes and crops the project image to 400 X 400 so that we get a perfect square which loads quickly  */}}
        
-        <div class="col-4">
+        <div class="col-sm-4">
             <div class="card h-300 border-0">
                 <a href="{{ .RelPermalink }}" class="stretched-link">
-                    <img src="{{ $imgThumb.RelPermalink }}" class="card-img-bot" alt="...">
+                    <img src="{{ $imgThumb.RelPermalink }}" class="img-fluid, card-img-bot" alt="...">
                 </a>
                 {{/*  <div class="overlay"></div>
                 <div class="card-body">
