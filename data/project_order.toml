@@ -1,16 +1,10 @@
 content = [
-    "/projects/i-like-that",
-    "/projects/pynk",
-    "/projects/dirty-computer",
-    "/projects/yoga",
-    "/projects/electric-lady",
-    "/projects/tightrope",
-    "/projects/archandroid",
+    
     "/projects/Devotion",
     "/projects/metropolis", 
 ]
 
-albums=[
+Shorts=[
     "/projects/dirty-computer",
     "/projects/electric-lady",
     "/projects/Devotion",
@@ -18,7 +12,7 @@ albums=[
     "/projects/metropolis",
 ]
 
-singles=[
+Promotion=[
     "/projects/i-like-that",
     "/projects/pynk",
     "/projects/yoga",
