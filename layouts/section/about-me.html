@@ -8,14 +8,14 @@
 </head>
 <body>
     {{ partial "navbar.html" (dict "context" . "originPage" "aboutMe") }}
-    <div class="col-12 text-center">
+    <div class="col-11 text-center">
             <h1>{{ .Params.title }}</h1>
         </div>
     {{ $img:= .Resources.GetMatch .Params.headshot }}
     <div class="container">
             
         <div class="about">
-        <div class="row col-12 text-left">
+        <div class="row col-11 text-left">
             {{/*<div class="col-6">
                 <img class="img-fluid" src="{{ $img.RelPermalink }}" />
             </div>*/}}
