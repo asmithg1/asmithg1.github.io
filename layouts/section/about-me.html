@@ -4,23 +4,25 @@
     {{ partial "head.html" . }}
     {{/*  imports "head.html" from the partials/ folder in layouts/  */}}
     {{/*  the second argument is the context for variables in "head.html" and using "." means use the same variable namespace as this document  */}}
-
+    
 </head>
 <body>
     {{ partial "navbar.html" (dict "context" . "originPage" "aboutMe") }}
-
+    <div class="col-12 text-center">
+            <h1>{{ .Params.title }}</h1>
+        </div>
     {{ $img:= .Resources.GetMatch .Params.headshot }}
     <div class="container">
-        <div class="row">
-            <div class="col-6">
+            
+        <div class="about">
+        <div class="row col-12 text-left">
+            {{/*<div class="col-6">
                 <img class="img-fluid" src="{{ $img.RelPermalink }}" />
-            </div>
-            <div class="col-6">
-                <h1>{{ .Params.title }}</h1>
-                <p>{{ .Content }}</p>
-            </div>
+            </div>*/}}
+            <p>{{ .Content }}</p>
+            
         </div>
-
+    </div>
     </div>
 
     

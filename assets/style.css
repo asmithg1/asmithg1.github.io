@@ -10,6 +10,7 @@ body {
     letter-spacing: 1px;
     color: #d9dadb;
     background-color: #0a0909;
+    line-height: 35px;
 }
 
 .card-body a{ /* changes the style of a only when it's inside of card-body */
@@ -34,6 +35,16 @@ body {
 .card{
     width: 260px;
     height: 200px;
+}
+
+.about {
+    letter-spacing: 2px;
+    padding-left: 60px;
+    line-height: 35px;
+}
+
+.navbar-nav {
+    position: right;
 }
 
 
