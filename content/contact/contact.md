@@ -8,11 +8,9 @@
     
     date = 2019-05-19T17:03:24-07:00 #the date the file was created
     
-    headshot = ""
 
 +++
 
 Email: asmithg123@gmail.com
 Instagram: @editedbyalec
 Vimeo: vimeo.com/306373334
-
