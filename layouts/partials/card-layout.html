@@ -14,7 +14,7 @@
         {{ end }} 
         {{ with $.Site.GetPage $proj }} 
         {{ $img:= .Resources.GetMatch .Params.projectImage }}
-        {{ $imgThumb := $img.Fill "260x200" }}
+        {{ $imgThumb := $img.Fill "280x200" }}
         {{/*  Resizes and crops the project image to 400 X 400 so that we get a perfect square which loads quickly  */}}
         {{ $numBootColumns := 6 }}
         {{ if eq $numColumns 3 }}
