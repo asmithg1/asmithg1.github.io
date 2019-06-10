@@ -11,5 +11,8 @@
 
 +++
 
-Email: asmithg123@gmail.com
-Instagram: @editedbyalec
+<div class="col-4">
+<p>Email: asmithg123@gmail.com</p>
+<p>Instagram: @editedbyalec</p>
+<p>Vimeo: vimeo.com/alecsmith</p>
+</div>
