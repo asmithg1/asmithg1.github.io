@@ -10,10 +10,8 @@
     
 
 +++
-<div class="col-12">
 <div class= "contact2">
-Interested in working together? You can contact me directly though email. You can also follow me on instagram and check out my content on Vimeo.
-</div>
+<p>Interested in working together? You can contact me directly though email. You can also follow me on instagram and check out my content on Vimeo.</p>
 </div>
 
 

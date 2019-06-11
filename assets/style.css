@@ -1,6 +1,7 @@
 /* for card layout */
 .gallery-row {
     margin-bottom: 2rem;
+    margin-top: 2rem;
 }
 
 body {
@@ -22,7 +23,11 @@ body {
     color: blueviolet;
 }
 
-.cards {
+.card-title {
+    text-align: center;
+}
+
+.cardss {
 }
 
 
