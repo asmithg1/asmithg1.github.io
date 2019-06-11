@@ -45,6 +45,7 @@ body {
 
 .img-overlay{
     position: relative;
+    text-align: center;
 }
 
 .img-overlay a{
@@ -63,6 +64,7 @@ body {
 
 .hover-image:hover img {
     opacity: 0.5;
+    
 }
 
 
