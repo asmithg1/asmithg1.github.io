@@ -4,7 +4,7 @@
         </div>
      </header> -->
 <div class="container">
-    
+
 {{ $numColumns := .Scratch.Get "numColumns" }}
 {{ $projects := .Scratch.Get "elements" }}
  {{ range $idx, $proj:= $projects }} 
@@ -12,21 +12,25 @@
         {{/*  if $idx modulo $numColumns = 0  */}}
             <div class="row gallery-row">
         {{ end }} 
+
         {{ with $.Site.GetPage $proj }} 
         {{ $img:= .Resources.GetMatch .Params.projectImage }}
         {{ $imgThumb := $img.Fill "500x300" }}
         {{/*  Resizes and crops the project image to 400 X 400 so that we get a perfect square which loads quickly  */}}
+
         {{ $numBootColumns := 6 }}
         {{ if eq $numColumns 3 }}
                 {{ $numBootColumns = 4 }}                 
         {{ end }}
         <div class="col-sm-{{ $numBootColumns }}">
+
             <div class="card h-100 border-0 img-overlay">
             <div class="hover-image">
                 <img src="{{ $imgThumb.RelPermalink }}" class="img-fluid" alt="Responsive image" class="card-img-top" alt="">
                 <a href="{{ .RelPermalink }}" class="stretched-link">
                         <h5 class="card-title">{{ .Title }}</h5>
-                    </div>
+           
+    </div>
                 </a>
                 {{/*  <div class="overlay"></div>
                 <div class="card-body">
