@@ -11,8 +11,8 @@
 
 +++
 
-<div class="col-4">
-<p>Email: asmithg123@gmail.com</p>
-<p>Instagram: @editedbyalec</p>
-<p>Vimeo: vimeo.com/alecsmith</p>
+<div class="col-5">
+<h5>Email: asmithg123@gmail.com</h5>
+<h5>Instagram: @editedbyalec</h5>
+<h5>Vimeo: vimeo.com/alecsmith</h5>
 </div>
