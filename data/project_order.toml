@@ -4,6 +4,9 @@ content = [
     "/projects/FASTLAX",
     "/projects/Oakluv17",
     "/projects/Pokemon",
+    "/projects/JBanned",
+    "/projects/JIronMaiden",
+
 ]
 
 shorts=[
@@ -15,4 +18,6 @@ shorts=[
 promotion=[
     "/projects/Oakluv16",
     "/projects/Oakluv17",
+    "/projects/JBanned",
+    "/projects/JIronMaiden",
 ]
