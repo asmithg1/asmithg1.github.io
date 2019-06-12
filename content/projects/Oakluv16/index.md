@@ -20,10 +20,6 @@
     projectImageAltText = ""
     #Alt text is the text that gets read by screenreaders for accessibility (typically for the visually impaired) 
 
-     [[collaborator]]
-        role="Videographer"
-        name="Alec Smith"
-
     [[collaborator]]
         role="Editor"
         name="Alec Smith"

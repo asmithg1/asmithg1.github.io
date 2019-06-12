@@ -14,20 +14,17 @@ body {
     line-height: 35px;
 }
 
-.card-body a{ /* changes the style of a only when it's inside of card-body */
+/*.card-body a{ /* changes the style of a only when it's inside of card-body 
     text-decoration: none;
     color: black;
-}
+} */
 
-.card-body a:hover{ /* changes the style of a ON HOVER and only when it's inside of card-body */
+/*.card-body a:hover{ /* changes the style of a ON HOVER and only when it's inside of card-body 
     color: blueviolet;
-}
+}*/
 
 .card-title {
     text-align: center;
-}
-
-.cardss {
 }
 
 
@@ -72,20 +69,30 @@ body {
 .img-overlay a{
     position: absolute;
     opacity: 0;
-    color:  #d9dadb;
+    background-color:  #050505;
+
 }
 
 .img-overlay:hover a{
     opacity: 1;
+
+}
+
+.card-title {
+    padding-right: 2rem;
+    padding-bottom: 3rem;
 }
 
 .hover-image {
-    background-color: #202020;
+
 }
 
 .hover-image:hover img {
-    opacity: 0.5;
-    
+    opacity: 0.7;
+    background-color: #f8f1f1;
+    transition: 0.3s;
+    background-image: url("/downloads/newHover.jpg");
+
 }
 
 
