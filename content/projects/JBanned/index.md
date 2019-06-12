@@ -30,4 +30,4 @@
 
 **This is my first collaboration with Zac Slick.**
 
- In 1984, the NBA banned Michael Jordan's sneakers. I set out to pay hommage to Michael and his legendary shoes, by embracing the censorship, while MJ flourishes through it all.
+ In 1984, the NBA banned Michael Jordan's sneakers. I set out to pay hommage to Jordan and his legendary shoes. I show MJ embracing the censorship and flourishing through it all.
