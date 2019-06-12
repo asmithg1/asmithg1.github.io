@@ -89,7 +89,7 @@ body {
 
 .hover-image:hover img {
     background-color: #0e0d0d;
-    opacity: 0.7;
+    opacity: 0.6;
     transition: 0.5s;
     background-image: url("/downloads/newHover.jpg");
 
