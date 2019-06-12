@@ -19,7 +19,7 @@
 <div class="col-12">
 <div class= "contact">
 <p>Email: asmithg123@gmail.com</p>
-<p>Instagram: @editedbyalec</p>
+<p>Instagram: @editedbyalec_</p>
 <p>Vimeo: vimeo.com/alecsmith</p>
 </div>
 </div>
