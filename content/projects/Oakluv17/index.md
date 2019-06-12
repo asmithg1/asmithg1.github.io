@@ -31,5 +31,5 @@
 
 **This is my second collaboration with Oakluv creating their promotional videos.**
 
-For their second video, I set out capture more of who Oakluv is at its core. I integrated interviews and voice-overs from members. I also set out to boost the spirit and energy of the video by adding 2D animation.
+For their second video, I set out to capture more of who Oakluv is at its core. I integrated interviews and voice-overs from members. I also aimed to boost the spirit and energy of the video by adding 2D animation.
 

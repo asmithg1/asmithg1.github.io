@@ -38,4 +38,4 @@
 
 **You only get one family, but sometimes you get a second chance.**
 
-This is a short film my team and I created for our final. I directed, co-write, filmed,acted and edited the short. I am very passionate about music, and it almost always brings me back to a specific moment in time. We set out to convey this feeling and integrate a relevant theme from our culture.
+This is a short film my team and I created for our final. I directed, co-write, filmed, acted and edited the short. I am very passionate about music, and it almost always brings me back to a specific moment in time. We set out to convey this feeling and integrate a relevant theme from our culture.

@@ -30,4 +30,4 @@
 
 **This is my second collaboration with Zac Slick.**
 
-With all the energy and personality Iron Maiden has brought to the world, I wanted to do the same for these shoes. The video is insipired by one of their rock concerts, with eruptions and animations.
+With all the energy and personality Iron Maiden has brought to the world, I wanted to do the same for these shoes. The video is insipired by one of their rock concerts, through eruptions and animations.
