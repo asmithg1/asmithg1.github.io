@@ -86,6 +86,9 @@ body {
     
 }
 
+.hover-image {
+
+}
 
 .hover-image:hover img {
     background-color: #0e0d0d;
