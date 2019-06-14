@@ -28,10 +28,14 @@
         <div class="col-sm-{{ $numBootColumns }}">
                 <div class="hover-image">
             <div class="card h-100 border-0 img-top">
+                    <a href="{{ .RelPermalink }}" class="stretched-link"> 
+                            <h6 class="card-title">{{.Title }}</h6>
                 <img src="{{ $imgThumb.RelPermalink }}"  class="card-img-top" alt="">
                 <div class=" text-center" style="width: 33rem;">
-                <a href="{{ .RelPermalink }}" class="stretched-link"> 
-                        <h6 class="card-title">{{/* .Title */}}</h6>
+                        
+
+                      
+                
                 </div>
               </div>
             </a>
