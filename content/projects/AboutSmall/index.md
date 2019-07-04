@@ -36,6 +36,6 @@
 
 +++
 
-**You only get one family, but sometimes you get a second chance.**
+**Life is short. Observe this individual’s take on it.**
 
-This is a short film my team and I created for our final. I directed, co-write, filmed, acted and edited the short. I am very passionate about music, and it almost always brings me back to a specific moment in time. We set out to convey this feeling and integrate a relevant theme from our culture.
+This is the first short film I collaborated on in the Davis Filmmaking Society. The short revolves around Peter who comes across an enlightening individual who awakens him to a new way of thinking about life.
