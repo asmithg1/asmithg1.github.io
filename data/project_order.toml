@@ -5,10 +5,11 @@ content = [
     "/projects/Pokemon",
     "/projects/JBanned",
     "/projects/JIronMaiden",
-
+    "/projects/AboutSmall",
 ]
 
 shorts=[
+    "/projects/AboutSmall",
     "/projects/Devotion",
     "/projects/Pokemon",
 ]
