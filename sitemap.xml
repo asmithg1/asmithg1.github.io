@@ -35,6 +35,11 @@
   </url>
   
   <url>
+    <loc>http://example.org/projects/aboutsmall/</loc>
+    <lastmod>2019-05-19T17:02:23-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/projects/devotion/</loc>
     <lastmod>2019-05-19T17:02:23-07:00</lastmod>
   </url>
