@@ -1,5 +1,4 @@
 content = [
-    "/projects/Devotion",
     "/projects/Oakluv16", 
     "/projects/Oakluv17",
     "/projects/Pokemon",
@@ -10,7 +9,6 @@ content = [
 
 shorts=[
     "/projects/AboutSmall",
-    "/projects/Devotion",
     "/projects/Pokemon",
 ]
 
