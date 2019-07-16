@@ -25,9 +25,6 @@
         role="Director"
         name="Jharol Mendoza & Alec Smith"
     [[collaborator]]
-        role="Writer"
-        name="Adam Savage & Jharol Mendoza"
-    [[collaborator]]
         role="DP"
         name="Alec Smith"
     [[collaborator]]

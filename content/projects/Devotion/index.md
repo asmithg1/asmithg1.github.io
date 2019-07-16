@@ -25,9 +25,6 @@
         role="Director"
         name="Alec Smith & Daniel Trowbridge"
     [[collaborator]]
-        role="Writer"
-        name="Daniel Trowbridge & Alec Smith"
-    [[collaborator]]
         role="DP"
         name="Alec Smith & Jair Moya"
     [[collaborator]]

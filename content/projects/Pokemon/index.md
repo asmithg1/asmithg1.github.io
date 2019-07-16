@@ -23,9 +23,6 @@
         role="Director"
         name="Jace Hardwick"
     [[collaborator]]
-        role="Writer"
-        name="Oliver Smith & Jace Hardwick"
-    [[collaborator]]
         role="DP"
         name="Alec Smith"
     [[collaborator]]
