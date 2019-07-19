@@ -8,6 +8,7 @@ body {
     font-family: futura-pt, sans-serif;
     font-weight: 300;
     font-style: normal;
+    font-size: 20px;
     padding-left: 15px;
     padding-right: 15px;
     letter-spacing: 1px;
@@ -49,7 +50,7 @@ body {
 }
 
 .contact2 {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 20px;
     line-height: 2rem;
     text-align: left;
@@ -58,7 +59,7 @@ body {
 }
 
 .contact {
-    font-size: 18px;
+    font-size: 22px;
     letter-spacing: 2px;
     line-height: 5rem;
     text-align: center;
@@ -109,7 +110,7 @@ body {
     position: absolute;
     top: 8px;
     right: 16px;
-    font-size: 18px;
+    font-size: 20px;
   }
 
 
