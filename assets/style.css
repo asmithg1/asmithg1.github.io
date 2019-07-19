@@ -5,12 +5,13 @@
 }
 
 body {
-	font-family: "Helvetica Neue";
+    font-family: "futura";
+    font-style: normal;
     padding-left: 15px;
     padding-right: 15px;
     letter-spacing: 1px;
-    color: #d9dadb;
-    background-color: #0a0909;
+    color: #ffffff;
+    background-color: #000000;
     line-height: 35px;
 }
 
@@ -93,20 +94,22 @@ body {
     transform: translate(-50%, -5%);
 }
 
-.hover-image {
-
-}
-
 .hover-image:hover img {
     opacity: 0.5;
     transition: 0.5s;
     background-image: url("/downloads/newHover.jpg");
 }
 
-.aboutsmall {
-    text-align: center;
-    bottom
+.filmmaker: {
+    color: 	#D3D3D3;
 }
+
+.topright {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+  }
 
 
 
